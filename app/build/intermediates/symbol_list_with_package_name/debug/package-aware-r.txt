@@ -2445,6 +2445,8 @@ drawable abc_textfield_search_material
 drawable abc_vector_test
 drawable avd_hide_password
 drawable avd_show_password
+drawable back
+drawable border_img
 drawable btn_checkbox_checked_mtrl
 drawable btn_checkbox_checked_to_unchecked_mtrl_animation
 drawable btn_checkbox_unchecked_mtrl
@@ -2471,6 +2473,7 @@ drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
 drawable key
+drawable lines
 drawable logo
 drawable m3_appbar_background
 drawable m3_popupmenu_background_overlay
@@ -2513,11 +2516,15 @@ drawable notification_template_icon_bg
 drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
+drawable rightborder_layout
 drawable round_btn
+drawable setting
 drawable test_custom_background
 drawable test_level_drawable
+drawable textlines
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
+drawable user
 id ALT
 id BOTTOM_END
 id BOTTOM_START
@@ -2648,6 +2655,7 @@ id compress
 id confirm_button
 id constraint
 id container
+id container1
 id content
 id contentPanel
 id contiguous
@@ -2857,8 +2865,12 @@ id percent
 id pin
 id position
 id postLayout
+id profile_img
+id profile_name
 id progress_circular
 id progress_horizontal
+id quantity_fr
+id quantity_fr2
 id radio
 id ratio
 id rectangles
